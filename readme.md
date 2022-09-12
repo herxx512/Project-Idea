@@ -5,7 +5,7 @@ Create a web application that allow users to gain access to a list of workouts, 
 # MVP: 
 * Users can Login/Register an account
 * Users can get a list of Workouts
-* Users can get their daily workout split (Sunday-Saturday Schedule)
+* Users can get their daily workout split schedule
 * Users can ADD workouts to a specific day
 * Users can UPDATE workouts
 * Users can DELETE workouts
